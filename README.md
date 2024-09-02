@@ -1,5 +1,4 @@
-# LetsGrowMore_tasks
-# Data Science Intern tasks
+# LetsGrowMore - Data Science Intern tasks
 
 ## Beginner level tasks:
 1. Iris Flowers Classification ML Project
